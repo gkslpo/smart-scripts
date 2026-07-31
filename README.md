@@ -1,0 +1,2 @@
+# smart-scripts
+cli project
